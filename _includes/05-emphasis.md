@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+great with data analysis, **statistics** and **econometrics** 
+java _java_ **java** _**java**_  ☕ or programming
